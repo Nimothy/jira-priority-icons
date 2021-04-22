@@ -1,4 +1,4 @@
-# jira_priority_icons
+# Jira Priority Icons
 If you are using the cloud instance of JIRA, there is no way to effectively add new priority icons to your instance.
 You need to either use the ones provided by JIRA or you need to reference externally hosted icons.
 This repo is to provide a stable host for these icons
@@ -17,19 +17,19 @@ Upload your custom icon as an attachment to any Jira Issue and right click on th
 New JIRA Prioirty icons:
 
 Critical:
-![critical](https://github.com/nimothy/jira-priority-icons/blob/master/jira_priority/critical.svg "Critical")
+![critical](https://github.com/nimothy/jira-priority-icons/blob/master/readme_icons/highest.png "Critical")
 
 High:
-![high](https://github.com/nimothy/jira-priority-icons/blob/master/jira_priority/high.svg "High")
+![high](https://github.com/nimothy/jira-priority-icons/blob/master/readme_icons/high.png "High")
 
 Medium:
-![medium](https://github.com/nimothy/jira-priority-icons/blob/master/jira_priority/medium.svg "Medium")
+![medium](https://github.com/nimothy/jira-priority-icons/blob/master/readme_icons/medium.png "Medium")
 
 Low:
-![low](https://github.com/nimothy/jira-priority-icons/blob/master/jira_priority/low.svg "Low")
+![low](https://github.com/nimothy/jira-priority-icons/blob/master/readme_icons/low.png "png")
 
 Lowest:
-![lowest](https://github.com/nimothy/jira-priority-icons/blob/master/jira_priority/lowest.svg "Lowest")
+![lowest](https://github.com/nimothy/jira-priority-icons/blob/master/readme_icons/lowest.png "Lowest")
 
 ### Credits: [Cglynne](https://github.com/cglynne/jira_priority_icons)
 
